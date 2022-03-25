@@ -1,5 +1,5 @@
-# Exercicico-Repeticao-Vetores
-Exercico - Matrizes/Repetição - DIO.me
+# Exercicio-Repeticao-Vetores
+Exercicio - Matrizes/Repetição - DIO.me
 
 Escrito em Portugol - Porugol Studio
 
